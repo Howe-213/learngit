@@ -6,5 +6,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 master
 featurel
-Git is a free software ...
+Git is a free software
 dev
