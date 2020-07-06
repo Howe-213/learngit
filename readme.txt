@@ -8,3 +8,4 @@ master
 featurel
 
 dev
+stash
